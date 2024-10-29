@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 87, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+
+#info-carriera {
+    text-decoration: none;
+}
+
+article,
+figcaption {
+    color: #FEF9F2;
+}
+
+footer {
+    background-color: #06153b;
+    width: 100%;
+    height: 70px;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer p {
+    color: #FEF9F2;
+    font-size: small;
+}
